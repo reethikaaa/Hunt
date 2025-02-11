@@ -1,22 +1,37 @@
 # Hunt -justice never sleeps
+A comprehensive investigation platform providing access to solved and unsolved cases, top officers, investigation materials, and resources. Developed using HTML, CSS, JavaScript, PHP, and MySQL, and hosted on XAMPP.
 
-This is a comprehensive platform dedicated to investigative research, case analysis, and intelligence gathering. Whether you are a researcher, journalist, law enforcement officer, or an enthusiast, our website provides valuable insights into past and present cases.
+🚀 Features
 
-🔍 Key Features:
-Case Studies: In-depth analysis of historical and modern investigations.
-Top Officers: Profiles and achievements of distinguished investigators.
-Old Cases: Explore past cases that shaped investigative history.
-Solved Cases: Detailed breakdowns of investigations that led to successful resolutions.
-Unsolved Cases: Open mysteries and ongoing investigations that need further exploration.
-Resource Library: Access research materials, reports, and investigative methodologies.
+->Case Database – View solved and unsolved cases.
 
-🎯 Our Mission:
-We aim to build a hub for learning, collaboration, and awareness by documenting real-life cases and investigative strategies. Our goal is to empower individuals with knowledge and insights into the world of crime-solving and intelligence gathering.
+->Top Officers Directory – List of experienced investigators.
 
-🔗 Get Involved:
-Explore and analyze intriguing cases.
-Share insights or suggest additional case studies.
-Collaborate with experts to enhance investigative resources.
-Join us in uncovering the truth and solving mysteries! 🔎✨
+->Investigation Materials – Resources and documents for case studies.
 
+->Search & Filters – Find cases and officers quickly.
 
+->Admin Panel – Manage case files, officers, and materials.
+
+🛠️ Tech Stack
+
+->Frontend: HTML, CSS, JavaScript
+
+->Backend: PHP
+
+->Database: MySQL
+
+->Server: XAMPP
+
+🔧 Installation
+1.Clone the repo:
+git clone https://github.com/reethikaaa/hunt.git
+
+2.Start XAMPP and enable Apache & MySQL.
+
+3.Import database.sql into MySQL.
+
+4.Update database credentials in config.php.
+
+5.Open in a browser:
+http://localhost/hunt/
