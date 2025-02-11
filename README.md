@@ -1,4 +1,4 @@
-🕵️ Hunt -justice never sleeps
+#🕵 Hunt -justice never sleeps
 
 Hunt Investigation is a comprehensive platform dedicated to investigative research, case analysis, and intelligence gathering. Whether you are a researcher, journalist, law enforcement officer, or an enthusiast, our website provides valuable insights into past and present cases.
 
