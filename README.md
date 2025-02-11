@@ -24,6 +24,7 @@ A comprehensive investigation platform providing access to solved and unsolved c
 ->Server: XAMPP
 
 🔧 Installation
+
 1.Clone the repo:
 git clone https://github.com/reethikaaa/hunt.git
 
